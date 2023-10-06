@@ -30,5 +30,3 @@ Example:
 
 ### Credits
 Developer: sirProxy_ <joao@tavares.dev.br>
-Website: https://tavares.dev.br
-Github: https://github.com/SirProxy
