@@ -28,5 +28,10 @@ Using:
 Example: 
 ./searching.sh google.com.br pdf 20
 
+###Disclaimer
+Author assume no liability and are not responsible for any misuse or damage caused by this program.
+
+Searching is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
 ### Credits
 Developer: sirProxy_ <joao@tavares.dev.br>
